@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Tanmay Kuamr Sahoo
+- 👋 Hi, I’m Tanmay Kumar Sahoo
 - 👀 I’m a Software Development Engineer 1 @Eqneuro Global- a Genpact Company
-- 🌱 I’m currently learning JavaScript and Other frontEnd Library
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript, Java and Other frontEnd Libraries
+- 💞️ I’m looking to collaborate on Spring Boot, React
+- 📫 tnmsahoo151@gmail.com
 
 <!---
 tnmsahoo0293/tnmsahoo0293 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

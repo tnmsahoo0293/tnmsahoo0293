@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanmay Kumar Sahoo
-- 👀 I’m a Software Development Engineer 1 @Eqneuro Global- a Genpact Company
+- 👀 I’m a Software Development Engineer 2 @ Oracle India Development Centre
 - 🌱 I’m currently learning JavaScript, Java and Other frontEnd Libraries
 - 💞️ I’m looking to collaborate on Spring Boot, React
 - 📫 tnmsahoo151@gmail.com
